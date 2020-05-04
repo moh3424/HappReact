@@ -66,3 +66,22 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Instalation
+To run locally, use this command:
+
+$ npm start
+
+This will make the app available under http://localhost:3000.
+
+## Available pages :
+
+Here is a list of available pages right now:
+
+-Dashboard : http://localhost:3000/dashboard
+
+-Claendar  : http://localhost:3000/calendar
+
+-Editor    : http://localhost:3000/editor
+
+-Data      : http://localhost:3000/data
