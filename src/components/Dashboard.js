@@ -125,7 +125,7 @@ export default class Dashboard extends Component {
                                             <p className="message">
                                                 <a href="faker_url" className="name">
                                                     <small className="text-muted pull-right"><i className="fa fa-clock-o" /> 2:15</small>
-                  Mike Doe
+                  Hassiba Benbouali
                 </a>
                 I would like to meet you to discuss the latest news about
                 the arrival of the new theme. They say it is going to be one the
@@ -149,7 +149,7 @@ export default class Dashboard extends Component {
                                             <p className="message">
                                                 <a href="faker_url" className="name">
                                                     <small className="text-muted pull-right"><i className="fa fa-clock-o" /> 5:15</small>
-                  Alexander Pierce
+                  Lala Fatema N'soumer
                 </a>
                 I would like to meet you to discuss the latest news about
                 the arrival of the new theme. They say it is going to be one the
@@ -159,11 +159,11 @@ export default class Dashboard extends Component {
                                         {/* /.item */}
                                         {/* chat item */}
                                         <div className="item">
-                                            <img src="dist/img/user2-160x160.jpg" alt="user" className="offline" />
+                                            <img src="dist/img/user5-128x128.jpg" alt="user" className="offline" />
                                             <p className="message">
                                                 <a href="faker_url" className="name">
                                                     <small className="text-muted pull-right"><i className="fa fa-clock-o" /> 5:30</small>
-                  Susan Doe
+                  Ait Ahmed
                 </a>
                 I would like to meet you to discuss the latest news about
                 the arrival of the new theme. They say it is going to be one the
